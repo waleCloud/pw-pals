@@ -1,0 +1,20 @@
+{
+  "name": "app-pwa-converter",
+  "version": "1.0.1",
+  "description": "This package converts non pwa web app to progressive web apps(pwa)",
+  "main": "index.js",
+  "scripts": {
+    "test": "node pwa"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AfamO/"
+  },
+  "keywords": [
+    "pwa",
+    "websites",
+    "app"
+  ],
+  "author": "AfamO",
+  "license": "SEE LICENSE IN licence.docx"
+}
